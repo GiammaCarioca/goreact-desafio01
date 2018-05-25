@@ -1,0 +1,12 @@
+.post-container {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 30px;
+  margin: 30px auto;
+  max-width: 700px;
+}
+
+.post-text {
+  color: #333;
+  font-size: 16px;
+}
